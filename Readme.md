@@ -11,5 +11,5 @@ To run the project locally, follow these steps:
 
     npm install
 
-    npm start
+    node json-excel.js   
 ```
